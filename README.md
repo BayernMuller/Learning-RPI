@@ -1,2 +1,4 @@
-# Learning-RPI
-the codes that I learned about Raspberry Pi
+# Raspberry Pi
+
+Cross platform codes like Qt or Python for raspberry pi.
+
